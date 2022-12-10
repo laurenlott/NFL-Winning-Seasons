@@ -5,7 +5,11 @@ This project features data from stathead.com. The data consists of total first d
 Skills:
 
 -Data Cleaning
+
 -Data Transformation
+
 -Data Visualization
+
 -Linear Regression
+
 -Multiple Regression
